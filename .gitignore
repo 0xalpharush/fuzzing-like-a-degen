@@ -1,0 +1,5 @@
+__pycache__/
+crytic-export/
+*.json
+.hypothesis/
+node_modules/
