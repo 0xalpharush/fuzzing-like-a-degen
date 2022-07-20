@@ -2,6 +2,8 @@
 
 A 4-hr smart contract fuzzer speed run. Successfully broke the test contract, but lots of TODOs, cleaning up hastily written code, and ideas to explore.
 
+I wrote this as a learning exercise after reading through [h0mbre's](https://twitter.com/h0mbre_) blog series, [Fuzzing Like a Caveman](https://h0mbre.github.io/Fuzzing-Like-A-Caveman/), which I highly recommend. A recording of the livestream is available on [Youtube](https://www.youtube.com/watch?v=qdtQ9k3gCX8).
+
 ## Installation
 
 ```shell
